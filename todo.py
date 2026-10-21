@@ -1,7 +1,7 @@
 ﻿tasks = []
 
 while True:
-    print("\n=== SIMPLE TO-DO LIST ===")
+    print("\n=== MY SIMPLE TO-DO LIST ===")
     print("1. Add Task")
     print("2. View Tasks")
     print("3. Exit")
